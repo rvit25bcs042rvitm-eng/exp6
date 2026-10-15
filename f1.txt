@@ -1,1 +1,2 @@
 line 1: this is f1 file
+line 2: this is second line
